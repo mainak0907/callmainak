@@ -50,7 +50,7 @@ const Navbar = () => {
         </Link>
 
         <ul className='list-none hidden sm:flex flex-row gap-10'>
-        <a href="https://drive.google.com/file/d/13DSC_nmrqgl9HkgQowBXadyZvKwNM5N6/view?usp=sharing" target="blank" class="p-0 border-solid border-2 border-[#915eff] rounded-xl hover:bg-[#915eff]"><span class="text-sm p-2">View Resume</span></a>
+        <a href="https://drive.google.com/file/d/1eK0WaiU82uTk6zI0Gbar2AOFvPGL0n4e/view?usp=sharing" target="blank" class="p-0 border-solid border-2 border-[#915eff] rounded-xl hover:bg-[#915eff]"><span class="text-sm p-2">View Resume</span></a>
           {navLinks.map((nav) => (
             <li
               key={nav.id}
